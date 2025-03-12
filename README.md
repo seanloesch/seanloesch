@@ -13,7 +13,7 @@ you'd like to collaborate, discuss technology, or simply connect!
 - 👨🏻‍💻 My past university projects are available at https://github.com/seanloesch/salient-coursework.
 - ⚙️ I am strongest in: `.java`, `.js`, `.html`, `.css`, `.c`
 - 📚 In my free time, you can find me exercising, listening to classical ([my favorite piece 🎻](https://www.youtube.com/watch?v=t9ndxDhgZBM)),
-and reading books — I'm currently reading _Persuasion_ by Jane Austen, the author of Pride and Prejudice!
+and reading books — I'm currently reading _Persuasion_ by Jane Austen, the author of _Pride and Prejudice_!
 - 📫 You can reach me at seanloesch2002@gmail.com and on <a href="https://www.linkedin.com/in/seanloesch/"><img src="https://www.linkedin.com/favicon.ico" style="width:1rem" />LinkedIn.
 
 ### Skills:
