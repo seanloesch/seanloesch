@@ -1,6 +1,6 @@
 ### Hey there 👋🏻
 
-**My name is Sean, a Java Development Engineer at VIAVI Solutions 👨🏻‍💻 and
+**I'm Sean, a Java Development Engineer at VIAVI Solutions 👨🏻‍💻 and
 former student researcher/publisher and TA.**
 Demonstrated expertise in contributing effectively to software development teams.
 Passionate about crafting elegant, efficient code and supporting others in any way I can.
