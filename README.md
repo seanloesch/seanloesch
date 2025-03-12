@@ -4,6 +4,7 @@
 former student researcher/publisher and TA.**
 Demonstrated expertise in contributing effectively to software development teams.
 Passionate about crafting elegant, efficient code and supporting others in any way I can.
+
 I'm always eager to connect with like-minded professionals, so feel free to reach out if
 you'd like to collaborate, discuss technology, or simply connect!
 
