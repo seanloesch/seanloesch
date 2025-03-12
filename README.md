@@ -1,10 +1,11 @@
 ### Hey there 👋🏻
 
-**My name is Sean, a recent [UWEC](https://www.uwec.edu/) CS graduate 🎓,
-former student researcher/publisher and TA, and aspiring IT developer.**
-I’m looking to settle into a career that challenges me and allows me to make a
-meaningful impact on the world. Passionate about using my skills to curate
-elegant, efficient code and help others however I can.
+**My name is Sean, a Java Development Engineer at VIAVI Solutions 👨🏻‍💻 and
+former student researcher/publisher and TA.**
+Demonstrated expertise in contributing effectively to software development teams.
+Passionate about crafting elegant, efficient code and supporting others in any way I can.
+I'm always eager to connect with like-minded professionals, so feel free to reach out if
+you'd like to collaborate, discuss technology, or simply connect!
 
 ### About Me
 
